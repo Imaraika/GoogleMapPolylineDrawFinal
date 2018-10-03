@@ -1,0 +1,26 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="1" />
+      <entry path="Build -&gt; Rebuild Project" count="3" />
+      <entry path="File -&gt; Close Project" count="12" />
+      <entry path="File -&gt; New -&gt; New Project..." count="24" />
+      <entry path="File -&gt; Open Recent -&gt; Close Project" count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="3" />
+      <entry path="File -&gt; Open..." count="6" />
+      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="Run -&gt; Run" count="3" />
+      <entry path="Tools -&gt; App Links Assistant" count="1" />
+      <entry path="Tools -&gt; Firebase" count="1" />
+      <entry path="Tools -&gt; SDK Manager" count="1" />
+      <entry path="Tools -&gt; Theme Editor" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="1" />
+      <entry path="Window -&gt; Active Tool Window -&gt; Docked Mode" count="2" />
+      <entry path="Window -&gt; Active Tool Window -&gt; Maximize Tool Window" count="1" />
+      <entry path="Window -&gt; Active Tool Window -&gt; Pinned Mode" count="3" />
+      <entry path="Window -&gt; Background Tasks -&gt; Show" count="1" />
+      <entry path="Window -&gt; Store Current Layout as Default" count="1" />
+      <entry path="Window -&gt; VideoDemo" count="1" />
+    </counts>
+  </component>
+</application>
