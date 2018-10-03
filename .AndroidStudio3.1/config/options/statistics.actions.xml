@@ -25,6 +25,7 @@
       <entry action="AndroidConnectDebuggerAction" count="1" />
       <entry action="Change Parameter Class" count="1" />
       <entry action="CheckinFiles" count="1" />
+      <entry action="CheckinProject" count="1" />
       <entry action="CleanGradleProject" count="1" />
       <entry action="CloseProject" count="16" />
       <entry action="CodeCompletion" count="1" />
@@ -39,10 +40,10 @@
       <entry action="DeveloperServices.UrlAssistant" count="1" />
       <entry action="Edit options of reporter inspection" count="1" />
       <entry action="Editor notification option" count="1" />
-      <entry action="EditorBackSpace" count="4117" />
+      <entry action="EditorBackSpace" count="4125" />
       <entry action="EditorChooseLookupItem" count="769" />
       <entry action="EditorChooseLookupItemReplace" count="1" />
-      <entry action="EditorCopy" count="124" />
+      <entry action="EditorCopy" count="125" />
       <entry action="EditorCut" count="19" />
       <entry action="EditorDelete" count="230" />
       <entry action="EditorDown" count="543" />
@@ -62,6 +63,7 @@
       <entry action="FindInPath" count="1" />
       <entry action="FindUsages" count="1" />
       <entry action="Fix Arguments" count="1" />
+      <entry action="Git.Add" count="1" />
       <entry action="GotoDeclaration" count="4" />
       <entry action="Gradle.ToggleOfflineAction" count="2" />
       <entry action="Groovy Introduce local variable" count="1" />
